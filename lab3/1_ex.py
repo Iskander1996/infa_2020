@@ -26,7 +26,7 @@ rect(screen, (140, 240, 140), (390, 20, l/5, height2))
 rect(screen, (140, 140, 140), (330, 80, l/5, height2))
 #cloud
 ellipse(screen, (190, 220, 210), (290, 100, 280, 100))
-
+ellipse(screen, (255, 220, 210), (150, 650, 450, 100))
 
 
 pygame.display.update()
